@@ -1,0 +1,56 @@
+body {
+    font-family: palm canyon drive;
+    margin: 0;
+}
+
+
+header {
+	background: darkgreen;
+	color: black;
+	padding: 5px 15px 0px 15px;
+}
+
+header h1 {
+	margin: 0;
+	display: inline;
+}
+
+nav ul{
+	margin: 0;
+	padding: 0 0 0 15px;
+	display: inline;
+}
+
+nav ul li {
+	background: #444;
+	color: black;
+	display: inline-block;
+	list-style-type:  none;
+    padding: 5px 15px;
+}
+
+nav ul li a {
+	color: black;
+}
+p {
+  background: none;
+  color: darkgreen;
+}
+
+.row{
+
+}
+
+.col {
+	background: #444;
+	border-radius: 5px;
+	padding: 5px .5%;
+	color: white;
+	float: left;
+	margin: .5%;
+	width: 48%;
+}
+
+footer {
+	clear: both;
+}
