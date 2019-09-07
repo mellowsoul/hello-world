@@ -5,7 +5,7 @@ body {
 
 
 header {
-	background: dark green;
+	background: darkgreen;
 	color: black;
 	padding: 5px 15px 0px 15px;
 }
@@ -34,7 +34,7 @@ nav ul li a {
 }
 p {
   background: none;
-  color: dark green;
+  color: darkgreen;
 }
 
 .row{
