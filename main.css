@@ -1,5 +1,5 @@
 body {
-    font-family: palm canyon drive;
+    font-family: monospace;
     margin: 0;
 }
 
@@ -34,7 +34,7 @@ nav ul li a {
 }
 p {
   background: none;
-  color: green;
+  color: black;
 }
 
 .row{
