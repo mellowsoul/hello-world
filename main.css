@@ -1,13 +1,16 @@
 body {
-    font-family: monospace;
+   
+    font : 15px/1.5 Monospace, Lucida-Sans;
     margin: 10px;
+    padding: 10px;
+    background-color: #228b22;
 }
 
 
 header {
 	background: #228b22;
 	color: black;
-	padding: 5px 15px 5px 15px;
+	padding: 5px 15px 0px 15px;
 }
 
 header h1 {
@@ -44,11 +47,17 @@ p {
 .col {
 	background: #228b22;
 	border-radius: 5px;
-	padding: 10px .5%;
+	padding: 5px .5%;
 	color: black;
 	float: left;
 	margin: .5%;
 	width: 48%;
+}
+
+.container {
+	width : 80%;
+	
+
 }
 
 footer {
