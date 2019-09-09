@@ -5,7 +5,7 @@ body {
 
 
 header {
-	background: darkgreen;
+	background: ForestGreen;
 	color: black;
 	padding: 5px 15px 0px 15px;
 }
@@ -22,7 +22,7 @@ nav ul{
 }
 
 nav ul li {
-	background: #444;
+	background: #228b22;
 	color: black;
 	display: inline-block;
 	list-style-type:  none;
@@ -34,7 +34,7 @@ nav ul li a {
 }
 p {
   background: none;
-  color: darkgreen;
+  color: ForestGreen;
 }
 
 .row{
@@ -42,10 +42,10 @@ p {
 }
 
 .col {
-	background: #444;
+	background: #228b22;
 	border-radius: 5px;
 	padding: 5px .5%;
-	color: white;
+	color: black;
 	float: left;
 	margin: .5%;
 	width: 48%;
