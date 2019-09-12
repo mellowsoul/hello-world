@@ -16,16 +16,17 @@ header {
 	background: #ffffff;
 	color: black;
 	text-align: center;
-	padding-top: 5px;
-	min-height: 70px;
+	padding-top: 2px;
+	font-size: 25px;
 	 
 }
 
 header a {
-	color: #006400;
+	color: #556B2F;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 15px;
+	
 }
 
 header ul {
@@ -36,25 +37,23 @@ header ul {
 
 header li { 
 	float : middle;
-	display : grid;
-	padding : 0 0 0 0;
+	display : in-line;
+	padding : 0 20 0 20;
+}
+
+header #topic{
+	float: middle;
+}
+
+header #topic h1{
+	margin : 50px;
+}
+
+header nav {
+	float : bottom;
+	margin-top : 10px;
+}
 	
-
-.sidebar {
-     
-            position: absolute;
-            width: 200px;
-            height: 100%;
-}
-
-
-
-
-nav ul{
-	margin: 10px;
-	padding: 20px 15px 30px;
-	display: inline;
-}
 
 footer {
 	clear: both;
