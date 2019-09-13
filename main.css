@@ -37,8 +37,8 @@ header li {
 
 
 header nav {
-	float : right;
-	margin-top : 10px;
+	float : top;
+	margin-top : 0;
 }
 	
 
