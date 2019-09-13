@@ -1,11 +1,12 @@
 body {
    
-    font : 15px Lucida Sans Typewriter;
+    font : 15px Courier;
     margin: 0px;
     padding: 0px;
     background-image: url("https://images.unsplash.com/photo-1519982714547-54ccfb2c121e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1673&q=80.jpeg");
 }
 
+/* GLobal */
 .container {
     width: 50%;
     margin: auto;
@@ -13,15 +14,15 @@ body {
 }
 
 header {
-	background: #ffffff;
+	background: #F7F7F7;
 	color: black;
 	text-align: center;
-	padding-top: 0;
 	font-size: 20px;	 
 }
 
 header a {
 	color: #556B2F;
+	float: middle;
 	text-decoration: none;
 	text-transform: uppercase;
 	font-size: 15px;	
@@ -34,9 +35,9 @@ header ul {
 }
 
 header li { 
-	float : middle;
-	display : grid;
-	padding : 0 20 0 20;
+	float : left;
+	display : inline;
+	padding : 0 20px 0 20px;
 }
 
 
